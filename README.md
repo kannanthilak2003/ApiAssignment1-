@@ -31,15 +31,3 @@ This is a demo project using Java, Spring Boot, and Maven to fetch random geek j
 ## Notes
 
 - Ensure you have JDK 21 or higher installed.
-- On macOS, you might need to adjust folder permissions.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For questions, reach out to [your-email@example.com](mailto:your-email@example.com).
-```
-
-Replace placeholders with your actual information. This version provides the essential details to get started with the project.
